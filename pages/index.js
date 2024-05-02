@@ -82,7 +82,7 @@ export default function Home() {
               <div id="about__content-main">
                 <h3 className="text-3xl py-1 dark:text-white mb-10">Get to know me!</h3>
                 <p className="about__content-details-para mb-10" >
-                  I'm a <strong className="text-[#666]">Full stack Web Developer</strong> building
+                  I&#39;m a <strong className="text-[#666]">Full stack Web Developer</strong> building
                    the Front-end and Back-end of Websites and Web Applications that
                   leads to the success of the overall product.
                 </p>
@@ -90,7 +90,7 @@ export default function Home() {
                 I have over <strong className="text-[#666]">7</strong> years of experience in web development, having previously worked as a Senior Engineer, Full Stack Engineering at WeLend, where I built an online e-shop platform, a lending payments system, a lending registration system, and a core lending system using Next.js, Ruby, Go, MongoDB, and Ruby on Rails. I also utilized Graphql and React to enhance the user experience, making the platform user-friendly and intuitive. I am passionate about staying up-to-date with the latest industry trends and technologies to continuously improve development processes and enhance user experiences.
                 </p>
                 <p className="about__content-details-para mb-10" >
-                  I'm open to <strong className="text-[#666]">Job</strong> opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
+                I&#39;m open to <strong className="text-[#666]">Job</strong> opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then donI&#39;t hesitate to contact me.
                 </p>
               </div>
               <div id="about__skill">
