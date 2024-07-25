@@ -126,7 +126,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">Senior Full Stack Engineer</div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">June, 2022 - Present</time>
-                            <div className="text-xl font-bold text-slate-900">AIA Hong Kong & Macau</div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">AIA Hong Kong & Macau</div>
                         </div>
                         <div className="text-slate-500">I excel in enhancing system integrations and upgrades. My role involves mapping, documenting, and ensuring system compatibility. I work closely with developers, testers, and users, utilizing JAVA, Spring, Spring Boot, and MongoDB to troubleshoot and optimize technical functionalities. My focus is on maintainable code and software enhancement.</div>
                     </div>
@@ -135,7 +135,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0"> Senior Engineer, Full Stack Engineer </div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">March 2022 - June 2022</time>
-                            <div className="text-xl font-bold text-slate-900">WeLend</div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">WeLend</div>
                         </div>
                         <div className="text-slate-500">As a Senior Full Stack Engineer at WeLend, I led the development of an innovative e-commerce platform using Next.js, integrating a sophisticated lending payment system crafted with Ruby and Go. I proposed and implemented enhancements for system performance and efficiency. Additionally, I developed a user-centric online lending registration system, utilizing Next.js and Go, to streamline the customer experience. My role also supported the core lending system based on Ruby on Rails and involved enhancing user interfaces with GraphQL and React, focusing on accessibility and ease of use.</div>
                     </div>
@@ -144,7 +144,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">Engineer, Full Stack Engineer</div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">March 2021 - March 2022</time>
-                            <div className="text-xl font-bold text-slate-900">WeLend</div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">WeLend</div>
                         </div>
                         <div className="text-slate-500">In my role as a Full Stack Engineer at WeLend, I was instrumental in creating modern financial platform applications. Utilizing a stack that includes Next.js, Go, MongoDB, and Ruby on Rails, I supported the company’s developmental and testing operations. I developed robust microservices and web services, and led the creation of comprehensive unit testing frameworks to ensure all projects met stringent quality standards. My expertise also extended to optimizing existing systems and processes to enhance functionality and user satisfaction.</div>
                     </div>
@@ -153,7 +153,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">Engineer</div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">November 2018 - March 2021</time>
-                            <div className="text-xl font-bold text-slate-900">South China Morning Post </div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">South China Morning Post </div>
                         </div>
                         <div className="text-slate-500">As an Engineer at South China Morning Post, I focused on enhancing the performance of web application platforms using Vue.js. My responsibilities included creating and managing Google Optimize A/B testing for webpage innovations, significantly increasing audience engagement. I developed APIs using Python, Express.js, and GraphQL to facilitate audience interaction with content. Additionally, I designed and implemented a full-featured authentication system using React and GraphQL, ensuring robust security and user data protection.</div>
                     </div>
@@ -161,7 +161,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">Web Programmer</div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">May 2018 - November 2018</time>
-                            <div className="text-xl font-bold text-slate-900">WeMine Ltd</div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">WeMine Ltd</div>
                         </div>
                         <div className="text-slate-500">During my tenure at WeMine Ltd, I was responsible for integrating communication tools like WeChat and Facebook Messenger using PHP, expanding the company’s digital reach. I developed a fast and efficient CMS using React and PHP Laravel, enabling business users to effectively manage customer interactions. My role required a deep understanding of both front-end and back-end development, ensuring seamless integration and functionality across various platforms.</div>
                     </div>
@@ -169,7 +169,7 @@ export default function Home() {
                         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">Back End Web Engineer</div>
                         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50  sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
                             <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600  ">September 2016 - April 2018</time>
-                            <div className="text-xl font-bold text-slate-900">Prospera International Technology</div>
+                            <div className="text-xl font-bold text-slate-900 dark:text-white">Prospera International Technology</div>
                         </div>
                         <div className="text-slate-500">At Prospera International Technology, I developed a robust CMS using PHP Laravel, supporting vital business operations and content management. I also created a feature-rich stock exchange webpage for the Southeast Asian market using Sails.js, enhancing financial transparency and user engagement. My work involved extensive backend development, focusing on server-side logic, database management, and API integration, providing a strong foundation for the company’s digital infrastructure.</div>
                     </div>
